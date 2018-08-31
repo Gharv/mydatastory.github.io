@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>getwd() and setwd() | My Data Story</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link href="//cdn.bootcss.com/highlight.js/9.12.0/styles/github.min.css" rel="stylesheet">
+
+  </head>
+
+  <body class="page">
+    <nav class="header">
+      <div class="banner">
+<a href="/">
+
+<img src="/img/banner.png" alt="My Data Story" />
+</a>
+</div>
+
+      <div class="head-meta">
+      
+        <span><a href="/">&larr; Back to Home</a></span>
+        <span class="date">2018-06-27</span>
+        
+        
+        
+          
+        
+        
+        <span><a href="https://github.com/yihui/hugo-xmag/edit/master/exampleSite/content/post%5c2018-06-27-getwd-and-setwd.Rmd">Edit this page &rarr;</a></span>
+        
+        
+      
+      </div>
+    </nav>
+
+<div class="container">
+<article>
+<div class="article-meta"
+     style="background-image:url('https://orig00.deviantart.net/f66c/f/2012/308/8/c/dark_mountains_plain_by_raywindly_kingdom-d5jxukx.jpg');background-blend-mode: overlay">
+
+  <div class="categories">
+  
+    <a href="/categories/r">R</a>
+  
+  </div>
+
+  <h1><span class="title">getwd() and setwd()</span></h1>
+
+  
+  <h3 class="author">Greg Harvey
+</h3>
+  
+
+  
+  <p>Tags: <a href="/tags/setwd">setwd</a>; <a href="/tags/directory">directory</a>
+  </p>
+  
+  
+
+</div>
+
+
+
+<main>
+<p>Many times getting started in any type of programing can be extremely difficult simply due to all the new terms being thrown at you. This is especially true for anyone who feels uncomfortable around computers in general. Here we are to talk about the basics of what <code>getwd()</code> and <code>setwd()</code>.</p>
+<p>The <code>wd</code> in these functions stands for ‘working directory’, for anyone who doesn’t know what a working directory is it is simply a folder that the program points to. So if you were to run a R command say <code>read.csv()</code> it would read from the current working directory. Look at the example paths below:</p>
+<p align="center">
+<img src="https://www.webopedia.com/imagesvr_ce/5459/directory.gif">
+</p>
+<p>Say for example we have a csv file in our <code>DOCS</code> directory, with <code>C:/</code> being our current working directory. There are two ways to go about getting the csv file named <code>data.csv</code> with our function <code>read.csv()</code>.</p>
+<ol style="list-style-type: decimal">
+<li>We can use <code>read.csv(DOCS/data.csv)</code><br />
+</li>
+<li>We first use <code>setwd(DOCS)</code> then use <code>read.csv(data.csv)</code></li>
+</ol>
+<p>While the second one seems to be unessacery, if we had many files we wanted to read in changing the working directory before hand would save some time. In fact a typical directory path say <code>C:\Users\johnsmith\Documents\Work\data.csv</code> would be long to type out if we have 10 different data files stored in our <code>Work</code> directory.</p>
+<p>So far I have only gone over <code>setwd()</code>, but <code>getwd()</code> is very simple and usally does not take parameters. Simply use <code>getwd()</code> to see what the current working directory is in R.</p>
+
+</main>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="article-meta article-footer">
+  <h3>About the Author</h3>
+  
+    <p>TA</p>
+  
+</section>
+
+
+
+
+
+
+<nav class="post-nav">
+  <span class="nav-prev"><a href="/post/2018/07/05/python-redux/">&larr; Python Redux</a></span>
+  <span class="nav-next"></span>
+</nav>
+
+
+
+</article>
+</div>
+
+<script async src="//yihui.name/js/center-img.js"></script>
+
+<footer>
+
+<div class="footer">
+  <ul class="menu">
+    
+    <li><a href="/"><span data-hover="Home">Home</span></a></li>
+    
+    <li><a href="/about/"><span data-hover="About">About</span></a></li>
+    
+    <li><a href="/categories/"><span data-hover="Categories">Categories</span></a></li>
+    
+    <li><a href="/tags/"><span data-hover="Tags">Tags</span></a></li>
+    
+  </ul>
+  
+  <div class="copyright">&copy; <a href="https:/mydatastory.com">MyDataStory</a> 2018 | <a href="https://github.com/mydatastory">Github</a></div>
+  
+</div>
+</footer>
+
+
+<script src="//yihui.name/js/math-code.js"></script>
+<script async src="//cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+
+
+
+
+</body>
+</html>
+
