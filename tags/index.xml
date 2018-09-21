@@ -6,10 +6,19 @@
     <description>Recent content in Tags on My Data Story</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data science</title>
+      <link>/tags/data-science/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-science/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Directory</title>
@@ -21,11 +30,11 @@
     </item>
     
     <item>
-      <title>Python startup</title>
-      <link>/tags/python-startup/</link>
-      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Resources</title>
+      <link>/tags/resources/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/python-startup/</guid>
+      <guid>/tags/resources/</guid>
       <description></description>
     </item>
     
@@ -35,24 +44,6 @@
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/setwd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Start</title>
-      <link>/tags/start/</link>
-      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/start/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T-test</title>
-      <link>/tags/t-test/</link>
-      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/t-test/</guid>
       <description></description>
     </item>
     

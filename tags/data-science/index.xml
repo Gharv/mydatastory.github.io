@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on My Data Story</title>
-    <link>/categories/r/</link>
-    <description>Recent content in R on My Data Story</description>
+    <title>Data science on My Data Story</title>
+    <link>/tags/data-science/</link>
+    <description>Recent content in Data science on My Data Story</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,16 +22,6 @@ Organizations Informatics Institute https://informatics.institute.ufl.edu/
 The Informatics Institute is UF’s official organization for all things data science at the university. When you join the institute’s listserv, you’ll receive valuable updates regarding upcoming workshops, seminars, and events.
  UF DSI http://www.dsiufl.org/
 UF DSI is a student-led organization which promotes data science at UF.</description>
-    </item>
-    
-    <item>
-      <title>getwd() and setwd()</title>
-      <link>/post/2018/06/27/getwd-and-setwd/</link>
-      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018/06/27/getwd-and-setwd/</guid>
-      <description>Many times getting started in any type of programing can be extremely difficult simply due to all the new terms being thrown at you. This is especially true for anyone who feels uncomfortable around computers in general. Here we are to talk about the basics of what getwd() and setwd().
-The wd in these functions stands for ‘working directory’, for anyone who doesn’t know what a working directory is it is simply a folder that the program points to.</description>
     </item>
     
   </channel>
