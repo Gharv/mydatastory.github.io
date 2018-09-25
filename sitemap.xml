@@ -3,18 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/2018/07/09/toothpaste-data-story/</loc>
-    <lastmod>2018-07-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2018/07/05/getting-started-w-python/</loc>
-    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2018/07/05/python-redux/</loc>
-    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+    <loc>/post/2018/09/21/dsci-resources/</loc>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -32,6 +22,12 @@
   </url>
   
   <url>
+    <loc>/tags/data-science/</loc>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/directory/</loc>
     <lastmod>2018-06-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -39,25 +35,19 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-07-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/python/</loc>
-    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/python-startup/</loc>
-    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/r/</loc>
-    <lastmod>2018-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/resources/</loc>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -68,26 +58,14 @@
   </url>
   
   <url>
-    <loc>/tags/start/</loc>
-    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/t-test/</loc>
-    <lastmod>2018-07-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
-    <lastmod>2018-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

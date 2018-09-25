@@ -6,36 +6,22 @@
     <description>Recent content in Posts on My Data Story</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Toothpaste Data Story </title>
-      <link>/post/2018/07/09/toothpaste-data-story/</link>
-      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      <title>MyDataStory Resources</title>
+      <link>/post/2018/09/21/dsci-resources/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/07/09/toothpaste-data-story/</guid>
-      <description>data story test run</description>
-    </item>
-    
-    <item>
-      <title>Getting Started w/Python</title>
-      <link>/post/2018/07/05/getting-started-w-python/</link>
-      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018/07/05/getting-started-w-python/</guid>
-      <description>So you&amp;rsquo;ve been thinking about getting started with Python. Well, now is the time to stop procrastinating and get moving.</description>
-    </item>
-    
-    <item>
-      <title>Python Redux</title>
-      <link>/post/2018/07/05/python-redux/</link>
-      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018/07/05/python-redux/</guid>
-      <description>This is a second test post on getting started with Python.</description>
+      <guid>/post/2018/09/21/dsci-resources/</guid>
+      <description>The following organizations and resources are extremely helpful when you need to sharpen your data science skills or just need assistance telling a data story.
+Organizations Informatics Institute https://informatics.institute.ufl.edu/
+The Informatics Institute is UF’s official organization for all things data science at the university. When you join the institute’s listserv, you’ll receive valuable updates regarding upcoming workshops, seminars, and events.
+ UF DSI http://www.dsiufl.org/
+UF DSI is a student-led organization which promotes data science at UF.</description>
     </item>
     
     <item>
