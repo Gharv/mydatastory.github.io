@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data science on My Data Story</title>
+    <title>data science on My Data Story</title>
     <link>/tags/data-science/</link>
-    <description>Recent content in Data science on My Data Story</description>
+    <description>Recent content in data science on My Data Story</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Sep 2018 00:00:00 +0000</lastBuildDate>
@@ -18,9 +18,9 @@
       
       <guid>/post/2018/09/21/dsci-resources/</guid>
       <description>The following organizations and resources are extremely helpful when you need to sharpen your data science skills or just need assistance telling a data story.
-Organizations Informatics Institute https://informatics.institute.ufl.edu/
+OrganizationsInformatics Institutehttps://informatics.institute.ufl.edu/
 The Informatics Institute is UF’s official organization for all things data science at the university. When you join the institute’s listserv, you’ll receive valuable updates regarding upcoming workshops, seminars, and events.
- UF DSI http://www.dsiufl.org/
+UF DSIhttp://www.dsiufl.org/
 UF DSI is a student-led organization which promotes data science at UF.</description>
     </item>
     

@@ -6,10 +6,19 @@
     <description>Recent content in R on My Data Story</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Competition</title>
+      <link>/post/2018/10/29/competition/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/10/29/competition/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MyDataStory Resources</title>
@@ -18,9 +27,9 @@
       
       <guid>/post/2018/09/21/dsci-resources/</guid>
       <description>The following organizations and resources are extremely helpful when you need to sharpen your data science skills or just need assistance telling a data story.
-Organizations Informatics Institute https://informatics.institute.ufl.edu/
+OrganizationsInformatics Institutehttps://informatics.institute.ufl.edu/
 The Informatics Institute is UF’s official organization for all things data science at the university. When you join the institute’s listserv, you’ll receive valuable updates regarding upcoming workshops, seminars, and events.
- UF DSI http://www.dsiufl.org/
+UF DSIhttp://www.dsiufl.org/
 UF DSI is a student-led organization which promotes data science at UF.</description>
     </item>
     
